@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="HeapSort.cpp" />
     <ClCompile Include="RunAlgo.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RunAlgo.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
