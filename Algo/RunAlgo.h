@@ -3,4 +3,5 @@ class runAlgo
 {
 public:
 	void Heapsort();
+	void insertionSort();
 };
