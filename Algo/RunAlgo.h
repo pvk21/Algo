@@ -3,5 +3,5 @@ class runAlgo
 {
 public:
 	void Heapsort();
-	void insertionSort();
+	void max_heapify(int*, int , int );
 };
