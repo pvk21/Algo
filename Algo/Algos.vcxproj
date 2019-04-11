@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Heap.cpp" />
     <ClCompile Include="HeapSort.cpp" />
     <ClCompile Include="RunAlgo.cpp" />
   </ItemGroup>
